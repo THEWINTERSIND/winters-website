@@ -220,16 +220,16 @@ span {
   border-radius: 0.5rem;
 }
 .html-bar {
-  width: 52%;
+  width: 87%;
 }
 .css-bar {
-  width: 23%;
+  width: 81%;
 }
 .js-bar {
-  width: 30%;
+  width: 87%;
 }
 .react-bar {
-  width: 19%;
+  width: 85%;
 }
 .services-content {
   display: grid;
